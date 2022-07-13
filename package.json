@@ -1,0 +1,24 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "render image for learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HusniddinJamoliddinov/husniddin-render-image.git"
+  },
+  "keywords": [
+    "image-render",
+    "learn-npm",
+    "husniddin-npm"
+  ],
+  "author": "husniddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HusniddinJamoliddinov/husniddin-render-image/issues"
+  },
+  "homepage": "https://github.com/HusniddinJamoliddinov/husniddin-render-image#readme"
+}
